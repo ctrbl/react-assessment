@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+.App {
+  margin: 0; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  background: url(https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/01/winter-blue-pink-gradient-background-vector_53876-117276-e1656148873227.jpg?resize=600%2C417&ssl=1) center / cover no-repeat fixed;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black; 
+}
